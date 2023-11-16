@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Imagen del logo*/
+.img-con{
+    width: 200px;
+    height: 100px;
+
+}
+header{
+    background-color: black;
+}
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+.card-img-top{
+    width: 100px;
+    height: 400px;
+
+}
